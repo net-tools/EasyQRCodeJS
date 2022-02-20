@@ -1,0 +1,24 @@
+{
+    "name" : "net-tools/easy-qrcode-js",
+	
+    "description" : "Composer library for qrcode output",
+	
+	"type": "library",
+	
+	"require" : {
+	},
+	
+    "license" : "MIT",
+
+    "authors": [
+		{
+			"name":"https://github.com/ushelp/EasyQRCodeJS"
+		},
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
+        }
+    ]
+
+}
